@@ -1,0 +1,13 @@
+<p><!DOCTYPE html> <html lang=&quot;en&quot;> <head>  <meta charset=&quot;UTF-8&quot;>  <meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;>  <title>Explore Nature</title>  <style>  body {  font-family: Arial, sans-serif;  margin: 0;  padding: 0;  line-height: 1.6;  }  header, main, footer {  padding: 20px;  }  header {  background-color: #4CAF50;  color: white;  }  img {  width: 300px;  height: auto;  margin: 10px 0;  }  </style> </head> <body></p>
+
+<p> <header>  <h1>Discover the Beauty of Nature</h1>  <p>Explore forests, mountains, and oceans through images and facts.</p>  </header></p>
+
+<p> <main>  <section>  <h2>Why Nature Matters</h2>  <ul>  <li>Nature boosts mental health and well-being.</li>  <li>It supports biodiversity and ecosystems.</li>  <li>Spending time outdoors improves physical health.</li>  </ul>  </section></p>
+
+<p> <section>  <h2>Gallery</h2>  <img src=&quot;https://via.placeholder.com/300x200?text=Forest&quot; alt=&quot;Lush forest&quot;>  <img src=&quot;https://via.placeholder.com/300x200?text=Mountain&quot; alt=&quot;Snowy mountain&quot;>  <img src=&quot;https://via.placeholder.com/300x200?text=Ocean&quot; alt=&quot;Ocean view&quot;>  </section></p>
+
+<p> <section>  <h2>Learn More</h2>  <p>To learn more about the importance of nature, visit  <a href=&quot;https://www.worldwildlife.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;>World Wildlife Fund</a>. </p>  </section>  </main></p>
+
+<p> <footer>  <p>&amp;copy; 2025 Nature Enthusiasts</p>  </footer></p>
+
+<p></body> </html></p>
